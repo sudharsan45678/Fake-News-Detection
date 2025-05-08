@@ -20,7 +20,6 @@ TF-IDF vectorization of input text
 
 ⚙️ Setup Instructions
 Clone the repository
-git clone https://github.com/your-username/fake-news-detector.git
 cd fake-news-detector
 
 Install the dependencies
